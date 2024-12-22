@@ -1,4 +1,4 @@
-package com.methew5.playchron.ui.theme
+package com.methew5.design_system.components.theme
 
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
