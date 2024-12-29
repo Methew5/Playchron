@@ -1,4 +1,4 @@
-package com.methew5.design_system.components.theme
+package com.methew5.design_system.theme
 
 import androidx.compose.ui.graphics.Color
 

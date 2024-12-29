@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="welcome_title">🎮 Games Under Control!</string>
+    <string name="welcome_message">Organize, track, and conquer your gaming backlog.</string>
+    <string name="welcome_next_button_title">Get started</string>
+
+</resources>

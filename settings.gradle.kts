@@ -23,5 +23,6 @@ rootProject.name = "Playchron"
 include(":app")
 include(":core")
 include(":design_system")
-include(":home")
 include(":home:presentation")
+include(":onboarding")
+include(":onboarding:onboarding_presentation")

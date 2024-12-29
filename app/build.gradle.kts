@@ -50,8 +50,10 @@ android {
 
 dependencies {
 
-//    implementation(project(Modules.core))
+    implementation(project(Modules.core))
     implementation(project(Modules.designSystem))
+
+    implementation(project(Modules.Features.Onboarding.presentation))
 
     // Kotlin
 //    implementation(libs.kotlinx.serialization.json)
